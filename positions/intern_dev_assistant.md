@@ -55,5 +55,4 @@ You will be directly involved in the student's journey: following in parallel th
 
 **We would like to remind you that this is a remote job, which means that you can work from anywhere in the world.**
 
-## [Apply here](HOWTO.md)
-
+## [Apply here](../HOWTO.md)

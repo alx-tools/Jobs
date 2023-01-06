@@ -63,5 +63,5 @@ In addition of the creation of new content, the team is implementing them with a
 
 **We would like to remind you that this is a remote job, which means that you can work from anywhere in the world.**
 
-## [Apply here](HOWTO.md)
+## [Apply here](../HOWTO.md)
 

@@ -67,5 +67,5 @@ As part of the Software Team, you will be involved in backend development and de
 
 **We would like to remind you that this is a remote job, which means that you can work from anywhere in the world.**
 
-## [Apply here](HOWTO.md)
+## [Apply here](../HOWTO.md)
 
