@@ -3,8 +3,8 @@
 ## ABOUT US
 
 In 2035, Africa will have the largest workforce in the world and will need to catalyze transformation by empowering its largest untapped resource - its people.
-Fuelled by this, the [African Leadership Group](https://algroup.org/) is an ecosystem of institutions with a shared vision to harness Africa's abundant human capital and transform the continent and the world by selecting, developing, and connecting 2 million young leaders to opportunities by 2030.
-ALG was founded over 15 years ago by [Fred Swaniker](https://time.com/collection/100-most-influential-people-2019/5567703/fred-swaniker/), a serial entrepreneur recognised by Time Magazine as one of the 100 most influential people of 2019.
+Fueled by this, the [African Leadership Group](https://algroup.org/) is an ecosystem of institutions with a shared vision to harness Africa's abundant human capital and transform the continent and the world by selecting, developing, and connecting 2 million young leaders to opportunities by 2030.
+ALG was founded over 15 years ago by [Fred Swaniker](https://time.com/collection/100-most-influential-people-2019/5567703/fred-swaniker/), a serial entrepreneur recognized by Time Magazine as one of the 100 most influential people of 2019.
 ALX and The Room are two brands of the [African Leadership Group](https://algroup.org/). 
 
 
@@ -19,15 +19,15 @@ For more on this, please read this article [here](https://www.linkedin.com/pulse
 
 ## ABOUT THE TEAM
 
-The tech team is responsible for all learning platforms at ALX: Intranet, auto correction system, cloud development sandbox for students, anti-plagia system, etc.
-We are bold and move fast: each member is the owner of his work - from the design to deployment.
-No weekly/bi-weekly sprints - we have goals and features to deliver, we tackle them by iterating quickly and adjusting if needed.
+The tech team is responsible for all learning platforms at ALX: Intranet, auto-correction system, cloud development sandbox for students, anti-plagia system, etc.
+We are bold and move fast: each member is the owner of his work - from design to deployment.
+No weekly/bi-weekly sprints - we have goals and features to deliver; we tackle them by iterating quickly and adjusting if needed.
 Our products are currently supporting the learning of more than 230K students (~30K more students each month).
 
 
 ## ABOUT THE ROLE
 
-You will be directly involved in the student's journey: following in parallel the curriculum, you will assist the team to track copyright violations, report them and design/implement automations.
+You will be directly involved in the student's journey: following in parallel the curriculum; you will assist the team to track copyright violations, report them and design/implement automations.
 
 
 ## REQUIREMENTS

@@ -2,10 +2,10 @@
 
 Looking for new challenges? Passionate by the education?
 
-**You are at the right place** - the ALX Tech team is looking for new talented team members - please find here the list of opened positions.
+**You are at the right place** - the ALX Tech team is looking for new talented team members - please find here the list of open positions.
 
 
-For applying, nothing easier than GitHub, right? just follow our [HOWTO](HOWTO.md).
+For applying, nothing is easier than GitHub, right? Just follow our [HOWTO](HOWTO.md).
 
 
 ## Open positions

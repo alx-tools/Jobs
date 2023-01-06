@@ -3,8 +3,8 @@
 ## ABOUT US
 
 In 2035, Africa will have the largest workforce in the world and will need to catalyze transformation by empowering its largest untapped resource - its people.
-Fuelled by this, the [African Leadership Group](https://algroup.org/) is an ecosystem of institutions with a shared vision to harness Africa's abundant human capital and transform the continent and the world by selecting, developing, and connecting 2 million young leaders to opportunities by 2030.
-ALG was founded over 15 years ago by [Fred Swaniker](https://time.com/collection/100-most-influential-people-2019/5567703/fred-swaniker/), a serial entrepreneur recognised by Time Magazine as one of the 100 most influential people of 2019.
+Fueled by this, the [African Leadership Group](https://algroup.org/) is an ecosystem of institutions with a shared vision to harness Africa's abundant human capital and transform the continent and the world by selecting, developing, and connecting 2 million young leaders to opportunities by 2030.
+ALG was founded over 15 years ago by [Fred Swaniker](https://time.com/collection/100-most-influential-people-2019/5567703/fred-swaniker/), a serial entrepreneur recognized by Time Magazine as one of the 100 most influential people of 2019.
 ALX and The Room are two brands of the [African Leadership Group](https://algroup.org/). 
 
 
@@ -19,16 +19,16 @@ For more on this, please read this article [here](https://www.linkedin.com/pulse
 
 ## ABOUT THE DATA TEAM
 
-Part of the Technical Team, the Data Team is responsible for everything about data, storage, migration, analysis, reports and exports.
+Part of the Technical Team, the Data Team is responsible for everything about data, storage, migration, analysis, reports, and exports.
 This squad works with the technical lead, the CTO, and the product team to improve performance and analyze student behaviors for all our products. 
 
 
 ## ABOUT THE ROLE
 
-You will be especially responsible for data analysis, extraction and reports.
-With your Data Team's colleague, you will be in charge of extracting and formatting the data that the education team needs to operate the programs and provide the best support to students.
-The goal is to build everything we need for analyzing student behaviors to detect future talents and/or target coach’s help.
-You will make the data speaking for giving insight to the product team and improve student and staff experience.
+You will be especially responsible for data analysis, extraction, and reports.
+As your Data Team colleague, you will be in charge of extracting and formatting the data that the education team needs to operate the programs and provide the best support to students.
+The goal is to build everything we need for analyzing student behaviors, to detect future talents and/or target coaches help.
+You will make the data available to give insight to the product team and improve student and staff experience.
 
 As part of the Software Team, you will be involved in backend development and design - including new features, bug fixes and code reviews.
 
@@ -39,7 +39,7 @@ As part of the Software Team, you will be involved in backend development and de
 
 - +3 years of experience in back-end development (Ruby, Python or JavaScript)
 - Great oral and written communication skills in English
-- 2+ years experience with both relational and document oriented databases (SQL, Redis...)
+- 2+ years experience with both relational and document-oriented databases (SQL, Redis...)
 - The ability to understand and interpret data
 - Base or advanced knowledge and experience with Ruby On Rails
 - RESTful API design experience

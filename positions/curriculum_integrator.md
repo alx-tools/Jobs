@@ -3,8 +3,8 @@
 ## ABOUT US
 
 In 2035, Africa will have the largest workforce in the world and will need to catalyze transformation by empowering its largest untapped resource - its people.
-Fuelled by this, the [African Leadership Group](https://algroup.org/) is an ecosystem of institutions with a shared vision to harness Africa's abundant human capital and transform the continent and the world by selecting, developing, and connecting 2 million young leaders to opportunities by 2030.
-ALG was founded over 15 years ago by [Fred Swaniker](https://time.com/collection/100-most-influential-people-2019/5567703/fred-swaniker/), a serial entrepreneur recognised by Time Magazine as one of the 100 most influential people of 2019.
+Fueled by this, the [African Leadership Group](https://algroup.org/) is an ecosystem of institutions with a shared vision to harness Africa's abundant human capital and transform the continent and the world by selecting, developing, and connecting 2 million young leaders to opportunities by 2030.
+ALG was founded over 15 years ago by [Fred Swaniker](https://time.com/collection/100-most-influential-people-2019/5567703/fred-swaniker/), a serial entrepreneur recognized by Time Magazine as one of the 100 most influential people of 2019.
 ALX and The Room are two brands of the [African Leadership Group](https://algroup.org/). 
 
 
@@ -19,13 +19,13 @@ For more on this, please read this article [here](https://www.linkedin.com/pulse
 
 ## ABOUT THE CURRICULUM TEAM
 
-The curriculum team is creating and improving all ALX curriculum hosted in the Intranet.
-In addition of the creation of new content, the team is implementing them with all tools developed by the tech team with the "ALX way": projects based, automatic corrections, granular learning, etc. 
+The curriculum team is creating and improving all ALX curriculum hosted on the Intranet.
+In addition to the creation of new content, the team is implementing them with all tools developed by the tech team with the "ALX way": projects based, automatic corrections, granular learning, etc. 
 
 
 ## ABOUT THE ROLE
 
-- Implement new curriculum in our platforms (with auto correction)
+- Implement new curriculum in our platforms (with auto-corrections)
 - Update and improve current curriculum implementation
 - Support education team (training, feedback loop, etc.)
 - Improve learning experience by a better tools/automation integration

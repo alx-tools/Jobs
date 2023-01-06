@@ -8,4 +8,4 @@ Easy:
 - Fill all informations requested in the PR template
 - Publish your PR
 
-And we will contact you few days after.
+And we will contact you a few days after.

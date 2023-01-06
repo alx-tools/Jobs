@@ -1,6 +1,6 @@
-# Opened positions
+# Open positions
 
-Here the list of opened positions:
+Here the list of our open positions:
 
 - [Senior Software Engineer](senior_swe.md)
 - [Data Analyst/Engineer](data_ae.md)
