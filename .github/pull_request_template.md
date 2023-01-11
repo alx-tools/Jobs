@@ -1,29 +1,31 @@
 ## Who I am:
 
-- First name: <!-- Insert your first name here -->
-- Last name: <!-- Insert your last name here -->
-- Email: <!-- Insert your email here -->
-- LinkedIn profile: <!-- Insert your LinkedIn profile URL here -->
+- First name: Laila
+- Last name: Eddaris
+- Email: lailaeddaris03@gmail.com
+- LinkedIn profile: (https://www.linkedin.com/in/lailaeddaris/)
 
 ## I am interested about the position(s)
+Intern Developer assistant
 
-<!-- Insert the postion or the list of positions you are interested in here -->
 
 ## My motivations
 
-<!-- Describe your motivation to join the team and for the position(s) -->
+- getting practical experience as a developer.
+- Learning new technlogies.
+- Improving my soft skills as working in a team, time management and problem solving.
 
-## And I would like to add...
 
-<!-- Add any other information that can describe you here -->
+
+
 
 ## Final checklist
 
 <!-- Make sure to check all these items -->
 
-- [ ] I add my resume (Markdown or PDF version) in the folder `applications`
-- [ ] I'm serious about my application
-- [ ] I'm ready to join the team and tacle incredible challenges
-- [ ] I'm matching the majority of the job requirements
-- [ ] I understand all positions are remote
-- [ ] All information provided about myself are true
+- [✓] I add my resume (Markdown or PDF version) in the folder `applications`
+- [✓] I'm serious about my application
+- [✓] I'm ready to join the team and tacle incredible challenges
+- [✓] I'm matching the majority of the job requirements
+- [✓] I understand all positions are remote
+- [✓] All information provided about myself are true
