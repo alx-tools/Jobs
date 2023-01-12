@@ -26,5 +26,6 @@ I shall be grateful if my application is favourably considered.
 
 <footer>
 Yours faithfully,
+
 Malik Kolawole Lanlokun.
 <footer>

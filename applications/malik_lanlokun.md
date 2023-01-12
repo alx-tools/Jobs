@@ -15,10 +15,10 @@
 # Skills
 
 <ul>
-    Software Development
-    Software Deployment 
-    Collaboration
-    Communication
+    Software Development |
+    Software Deployment |
+    Collaboration |
+    Communication |
     Creative Advertising
 
 </ul>
@@ -26,48 +26,48 @@
 # Languages
 
 <ul>
-    C
-    Java
-    Python
-    PHP
+    C |
+    Java |
+    Python |
+    PHP |
     Javascript
 </ul>
 
 # Libraries
 
 <ul>
-    Bootstrap
-    Jquery
-    Inertia
+    Bootstrap |
+    Jquery |
+    Inertia 
 </ul>
 
 # FrameWorks
 <ul>
-    Django
-    Laravel
-    React
+    Django |
+    Laravel |
+    React |
     Vue
 </ul>
 
 # Operating Systems
 
-    <h4> Linux - any of the ubuntu distros</h4>
+    Linux - any of the ubuntu distros
 
 # Deployment
 
 <ul>
-    Google Cloud
-    Laravel Forge
-    Nginx
-    Apache
+    Google Cloud |
+    Laravel Forge |
+    Nginx |
+    Apache |
     SSH 
 </ul>
 
 # Databases
 
 <ul>
-    MSSQL
-    MYSQL
+    MSSQL |
+    MYSQL |
     phpmyadmin
 </ul>
 
@@ -108,16 +108,16 @@ Social Media Management and Optimizations
 # Education
 
 
-<p>September  2016 - March  2021</p>
+September  2016 - March  2021
 
-<p>University Of The Gambia, KMC - BSc Computer Science</p>
+University Of The Gambia, KMC - BSc Computer Science
 
-<p>Glory Baptist Senior Secondary School, Bakau - (Primary , Junior and High School)</p>
+Glory Baptist Senior Secondary School, Bakau - (Primary , Junior and High School)
 
 # Projects 
 <ol>
-    1.  University of The Gambia Library Management System
-    2.  Social Protection Systen for the Government of Niue
+ University of The Gambia Library Management System
+ Social Protection Systen for the Government of Niue
 
 </ol>
 
@@ -125,6 +125,5 @@ Social Media Management and Optimizations
 
 <ol>
 Ethixpert Certified
-
 Co-ordinator of the largest attended summer training for the University of The Gambia School of ICT
 <ol>
