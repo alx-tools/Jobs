@@ -1,93 +1,129 @@
-Johnny Coder
+Peter Zyambo
 ============
+--------------------------
+Accomplished educator seeking a new career in Tech as curriculum integrator at ALX. Proven track record of impact creation mindset, accountability, thinking big and curriculum integration. Passionate about transforming the African continent and the world through technology, and hoping to be part of the ALX team and help you in achieving your vision. 
+--------------------------
 
 -------------------     ----------------------------
-1 MyAddress                        email@example.com
-MyTown 1000                          @twitter_handle
-MyCountry                           1800 my-phone-nr
+**Address**: 3808 Jacaranda Drive Buyantanshi Township, Kitwe Zambia. | **Email:** zyambopeter1@gmail.com
+**Twitter**: @peter_zyambo  | **Mobile**: +260 969 620 939
 -------------------     ----------------------------
-
-Education
----------
-
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
-
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
-
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
-
-    *Minor: Awesomeology*
-
-Experience
-----------
-
-**Your Most Recent Work Experience:**
-
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
-
-* First item
-
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
-
-**That Other Job You Had**
-
-Also with a short description.
 
 Technical Experience
 --------------------
 
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
+Lipala Project
+:   I created a full-stack web application that allows schools collect fees online directly into their bank accounts.
 
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
+    * Utilized PostgreSQL to store user details, student details and payment history in the database.
+    * I used flask-mail to configure sending emails to users. 
+    * I integrated the MTN momo API that allows parents and students make payments using their mobile money accounts.
+    * I used Python, Flask, HTML, CSS, JavaScript, and PostgreSQL
 
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
+Project links:
 
-Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
+Source code:
 
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
+        https://github.com/sangwani-coder/lipila
 
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
+Project page on my website:
 
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
+        https://zyambo.pythonanywhere.com/lipila
 
-[ref]: https://github.com/githubuser/superlongprojectname
+My Site
+:   I created my portfolio website using python, flask and SQLite.
 
-Extra Section, Call it Whatever You Want
-----------------------------------------
+Source code:
+
+        https://github.com/sangwani-coder/mysite
+
+Deployed site:
+
+        https://zyambo.pythonanywhere.com
+
+Work Experience
+----------
+
+**Computer Teacher:**
+
+Worked as a computer teacher at Shalom Christian School from 2018 to 2022.
+In this role I learnt accountability and creating ambitious goals. What I accomplished:
+
+* Created and implemented the school ICT curriculum that extended the national curriculum by integrating it
+    with other international curriculums.
+
+* Taught computer basics 3 times a week to over 90 children aged between 6 to 14 years.
+
+* Taught basic to advanced computer skills twice a week to secondary school students and working adults.
+
+* Introduced coding in the school curriculum in 2019 which helped the school get recognized in the district
+    as one of the schools with the best computer programs.
+
+* Taught web development, game development and programming in Scratch, Python, Lua and JavaScript to over
+     25 children and 8 adults.
+
+* Responsible for setting and implementing yearly, termly and monthly departmental goals.
+
+**Music Educator**
+
+Worked as a music teacher at Shalom Christian School from 2016 to 2022.
+Working as a music educator helped me understand that humanity has the ability to self-improve
+when given a chance. It’s during this time that I recognized the importance of sharing knowledge. What I accomplished:
+
+* Created and implemented the school music curriculum that extended national curriculum by integrating it
+    with international curriculums.
+
+* Introduced yearly concerts that attracted an audience of over 400 people. This improved the schools recognition
+    in the province and started to increase student enrollments from 2018 onwards.
+
+* Introduced music technology in the school curriculum.
+
+* Taught music theory, piano and guitar twice a week to secondary school students and working adults.
+
+* Programming Languages | Technologies
+
+     * Python (proficient)
+     * C (Proficient)
+     * PostgreSQL, MySQL (Proficient)
+     * Java (Working knowledge)
+     * JavaScript (Working knowledge)
+     * Docker (Working knowledge)
+ 
+:   Basic knowledge of **Ruby**, **C++**, **PHP**, **Lua**
+
+[github]: https://github.com/sangwani-coder
 
 * Human Languages:
 
-     * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
+     * English oral (proficient)
+     * English written (proficient)
 
-* Random tidbit
+Certification
+---------
 
-* Other sort of impressive-sounding thing you did
+August 2021-September 2022
+:   **Software Engineering**; ALX (Kenya)
+
+    *Apart from learning software engineering best practices. In this program I learnt that brains and talent are just
+      a starting point, basic skills can be developed through dedication and hard work*
+
+December 2020
+:   **CS50**; Harvard University Cambridge, (Massachusetts)
+
+    *In this introductory course to computer science, I learnt how to think algorithmically
+     and how to solve problems efficiently*
+
+December 2020
+:   **CS50**; Harvard University Cambridge, (Massachusetts)
+
+    *In this introductory course to computer science, I learnt how to think algorithmically
+     and how to solve problems efficiently*
+
+Achieved Goals:
+----------------------------------------
+
+* I managed to complete an online fee collection system that I envisioned 7 years ago before I could write
+    a simple "Hello World" program.
+
+* I managed to improve my communication, planning and coaching skills in a period of 6 years as an educator, a go I set
+    to achieve more than 8 years ago.
