@@ -4,6 +4,7 @@ Peter Zyambo
 Accomplished educator seeking a new career in Tech as curriculum integrator at ALX. Proven track record of impact creation mindset, accountability, thinking big and curriculum integration. Passionate about transforming the African continent and the world through technology, and hoping to be part of the ALX team and help you in achieving your vision. 
 --------------------------
 
+
 -------------------     ----------------------------
 **Address**: 3808 Jacaranda Drive Buyantanshi Township, Kitwe Zambia. | **Email:** zyambopeter1@gmail.com
 **Twitter**: @peter_zyambo  | **Mobile**: +260 969 620 939
@@ -28,7 +29,7 @@ Source code:
 
 Project page on my website:
 
-        https://zyambo.pythonanywhere.com/lipila
+        https://zyambo.pythonanywhere.com/zyambo/projects/lipila
 
 My Site
 :   I created my portfolio website using python, flask and SQLite.
@@ -106,12 +107,6 @@ August 2021-September 2022
 
     *Apart from learning software engineering best practices. In this program I learnt that brains and talent are just
       a starting point, basic skills can be developed through dedication and hard work*
-
-December 2020
-:   **CS50**; Harvard University Cambridge, (Massachusetts)
-
-    *In this introductory course to computer science, I learnt how to think algorithmically
-     and how to solve problems efficiently*
 
 December 2020
 :   **CS50**; Harvard University Cambridge, (Massachusetts)
