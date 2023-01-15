@@ -4,9 +4,9 @@ Last name: Udoh
 Email: Udoh17010111032@gmail.com
 Phone Number: +2349067043987
 ## I am interested about the position(s)
-Intern Developer assistant
+Intern Developer Assistant
 
-## My motivations
+## My Motivations
 As a recent graduate in Computer Engineering, and an Incumbent Student in the ALX-SWE Program, I am eager to gain hands-on experience in a dynamic and innovative Organization like ALX.
 
 I have always been passionate about technology, and I am excited about the opportunity to work with a team of experienced developers. I am confident that my strong technical skills, my ability to learn quickly, my passion for problem-solving and conveying knowlege will make me an asset to your organization.
