@@ -1,27 +1,57 @@
-# Who I am:
-First name: Daniel
-Last name: Udoh
-Email: Udoh17010111032@gmail.com
-Phone Number: +2349067043987
-## I am interested about the position(s)
-Intern Developer Assistant
+# UDOH, Daniel Iboro
+## Home Address: 4, Crystal Park Estate, Mowe, Ogun-State.
+## Phone Number: 09067043987
+## Email: Udoh17010111032@gmail.com
+## Nationality: Nigeria
+## Sex: Male
 
-## My Motivations
-As a recent graduate in Computer Engineering, and an Incumbent Student in the ALX-SWE Program, I am eager to gain hands-on experience in a dynamic and innovative Organization like ALX.
+## Brief Profile
+A result-oriented and articulate individual, Who seeks to gain real world Programming experience, contribute  my quota towards achieving organizational objectives and also build intellectual capacity.  
 
-I have always been passionate about technology, and I am excited about the opportunity to work with a team of experienced developers. I am confident that my strong technical skills, my ability to learn quickly, my passion for problem-solving and conveying knowlege will make me an asset to your organization.
-
-In my studies, I have gained a indepth understanding in a programming language such as C,  I am also familiar with Slack, Google Drive, Git version control and gitHub. I am confident that I will be able to apply my knowledge and skills to help your team achieve its goals.
-
-Furthermore, I have strong communication and teamwork skills, which I believe will be valuable in an intern role. I am a fast learner, able to adapt to new technologies and programming languages quickly. I am excited to work with your team to learn from more experienced developers, and I am confident that I will be able to contribute to your projects from the start.
-
-Thank you for considering my application. I am looking forward to the opportunity to discuss my qualifications further.
-## And I Would Like To Add...
-•	I Am Self-motivated
-•	I Have Good oral & written communication skill
+## Key Competence and Skills:
+•	Strong Analytical, Reasoning and Problem-Solving Skills
+•	Self-motivated
+•	Good oral & written communication skill
 •	Leadership skills
 •	Effective Team player
 •	Mental Agility with the Ability to learn and adapt fast
-•	IT Proficient
+•	IT Proficient 
 •	Emotional Intelligence.
+
+
+## Education, Qualifications& Trainings
+
+Present		Currently Enrolled in African Leadership X (A Sister Organization Of 				African Leadership University), Studying Software-Engineering.
+
+2017-2019		Graduated From Gateway ICT With A Degree In Computer Engineering.
+
+2021-2022		Got Accepted into DCOs Internship and Graduated from With 				Certification.
+	
+## Work Experience 
+
+2021-2022				      DCOs Internship.
+			
+## Position:                                       Intern
+
+2020 - 2021 				Haven-Hills Private School
+
+## Position					   Teacher
+
+2019 - 2020					Gadgets Home
+
+## Position					Graphic Designer
+
+
+
+## Addition information	
+
+Personal Profile			DOB:  June 16th, 2001
+
+Hobbies			Learning, Meditation, Exercise, Problem Solving 
+
+
+References: 	
+Mr. Micheal Ikemesit					Julie Nkanga (Mrs)
+No. 7 Akinsanya Street, Ojodu, Lagos state. |  No. 1 Lekki Expressway, Victoria Island, Lagos.
+Mobile: +2348034679616			        Mobile: +2348141205084
 
