@@ -1,13 +1,11 @@
 # Essien Ekaette
 ### Software Engineer
-[LinkedIn Profile](https://www.linkedin.com/in/ekaette-essien/)
-[Twitter Profile](https://twitter.com/TinnieTweety)
-[GitHub Profile](https://github.com/Tishly)
-Port Harcourt, Nigeria
-ekaetteessien27@gmail.com
+- [LinkedIn Profile](https://www.linkedin.com/in/ekaette-essien/)              Port Harcourt, Nigeria
+- [Twitter Profile](https://twitter.com/TinnieTweety)                          ekaetteessien27@gmail.com
+- [GitHub Profile](https://github.com/Tishly)
 
 ## EXPERIENCE
-###Software Engineering, ALX Africa - Feb/2022 - Present - Nigeria (Remote).
+### Software Engineering, ALX Africa - Feb/2022 - Present - Nigeria (Remote).
 ALX provides education management, leadership, entrepreneurship and career empowerment services to
 achieve career goals
  Wrote a custom printf function using the low-level language C
@@ -31,16 +29,16 @@ resources to excel into world class
  - Created AWS EC2 instances, installed and configured Nginx server.
  - Deployed a three-tier web application with AWS Lambda.
 
-###EDUCATION AND CERTIFICATES
+### EDUCATION AND CERTIFICATES
 Doctor of Veterinary Medicine, University of Nigeria, 2017
 
-###TECHNICAL SKILLS
+### TECHNICAL SKILLS
 Language/Frameworks: { C, Python, SQL, Javascript, Bash, HTML, CSS, Flask, FastAPI}
-Tools: { Docker, Git, Github, Nginx, Trello, Redis }
+Tools: { Docker, Git, Github, Nginx, Trello, Redis, AWS }
 Operating Systems: { Linux, Windows}
 Databases: { MySQL, PostGreSQL, MongoDB}
 
-###SOFT SKILLS
+### SOFT SKILLS
 - Ability to learn and adapt in a fast-paced environment.
 - Ability to collaborate with distributed teams.
 - Strong communication skills.
@@ -48,5 +46,5 @@ Databases: { MySQL, PostGreSQL, MongoDB}
 - Ability to solve complex problems.
 - Self Management and Agility.
 
-###LANGUAGES
+### LANGUAGES
 English - Native
