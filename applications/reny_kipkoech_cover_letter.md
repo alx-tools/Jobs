@@ -12,5 +12,5 @@ I believe in humanity's ability to self-improve and am passionate about leveragi
 
 Thank you for considering my application. I look forward to the opportunity to discuss how my skills and experience can contribute to the African Leadership Group's mission.
 
-Sincerely,</br>
+Sincerely, </br>
 Reny Kipkoech.
