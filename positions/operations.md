@@ -19,7 +19,7 @@ For more on this, please read this article [here](https://www.linkedin.com/pulse
 
 ## ABOUT THE SE TEAM
 
-The SE team is managing the SE program at ALX - the entire team is dedicated to students.
+The SE team is managing the [Software Engineering program](https://www.alxafrica.com/software-engineering-2022/) at ALX - the entire team is dedicated to students. We are responsible for hundreds of thousands of students.
 
 
 ## ABOUT THE ROLE
@@ -47,7 +47,7 @@ The ideal candidate will have experience in project management, operations manag
 - Talk to and survey students to come up with new ideas, features and projects.
 
 
-## QUALIFICATIONS
+### Qualifications
 
 - Demonstrates relentless execution, resourcefulness, and delivering results in challenging situations (aka you get sh*t done).
 - Takes ownership.
@@ -71,29 +71,20 @@ The ideal candidate will have experience in project management, operations manag
 - Degree: we don’t care about degrees.
 
 
-## YOU WILL LOVE THIS JOB IF..
+### You will love this job if:
 
-- **Humanity Centered**: You believe in humanity’s ability to self-improve, and are passionate about  leveraging technology, streamlined systems and data to solve human-centric problems
-- **Impact Creation Mindset**: You seek to create lasting impact by solving problems that address  systemic growth challenges
-- **Think Big**: You have the ability to think in terms of ambitious goals that span years, not months
-- **Accountability**: You have an “owner’s approach” to be able to deliver on minimal supervision
-- **Structure**: You have the discipline to take audacious goals and break down years-long roadmaps  into near term deliverables that provide value to business stakeholders
-- **Coaching**: You enjoy educating your peers and business partners about what it means to be  data-oriented and cultivating engineering best practices
-
-
-## LAST INFORMATION
+- **You have a get sh\*t done attitude**
+- **You are a team player**
+- **You like fast pace teams**
+- **You love education** and want to make an big impact
 
 ### Location
 
 Remote
 
-### Timezones
+#### Timezones
 
 Americas, Western Europe or Africa.
-
-
-
-**We would like to remind you that this is a remote job, which means that you can work from anywhere in the world.**
 
 ## [Apply here](../HOWTO.md)
 
