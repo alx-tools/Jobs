@@ -65,6 +65,17 @@ As part of the Software Team, you will be involved in backend development and de
 - **Coaching**: You enjoy educating your peers and business partners about what it means to be  data-oriented and cultivating engineering best practices
 
 
+## LAST INFORMATION
+
+### Location
+
+Remote
+
+### Timezones
+
+Americas, Western Europe or Africa.
+
+
 **We would like to remind you that this is a remote job, which means that you can work from anywhere in the world.**
 
 ## [Apply here](../HOWTO.md)

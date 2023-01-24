@@ -7,7 +7,12 @@
 
 ## I am interested about the position(s)
 
-<!-- Insert the postion or the list of positions you are interested in here -->
+<!-- Check the postion(s) you are interested in -->
+- [ ] Curriculum Integrator
+- [ ] Data Analyst/Engineer
+- [ ] Intern Developer assistant
+- [ ] Operations
+- [ ] Senior Software Engineer
 
 ## My motivations
 
