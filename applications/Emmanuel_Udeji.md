@@ -1,6 +1,6 @@
-Emmanuel Udeji
+# Emmanuel Udeji
 
-Software Engineer
+### Software Engineer
 
 +234-8032787601  | Owerri, Nigeria | <emmaudeji22@gmail.com> 
 
