@@ -14,8 +14,8 @@ Currently we have some open positions:
 
 - [Curriculum Integrator](positions/curriculum_integrator.md)
 - [Data Analyst/Engineer](positions/data_ae.md)
+- [External students success](positions/external_students_success.md)
 - [Intern Developer assistant](positions/intern_dev_assistant.md)
-- [Operations](positions/operations.md)
 - [Senior Software Engineer](positions/senior_swe.md)
 
 
