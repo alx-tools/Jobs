@@ -36,6 +36,7 @@ The ideal candidate will have experience in project management, has a passion fo
 - Coach and place students to talk at events, meetups, conferences i.e. [student speaking at DockerCon](https://dockercon2016.sched.com/speaker/dora_korpar.1vbeqr05)
 - Regulat Twitter lives on different topics with students and industry experts
 - Engage with selected applicants before Day 0
+- Track the projects that have been built by students during
 - Manage multiple projects simultaneously, ensuring they are completed on time and within budget.
 - Coordinate with internal teams and external vendors to ensure project milestones are met.
 - Develop and implement project management processes and procedures to ensure efficiency and consistency.
