@@ -10,8 +10,8 @@
 <!-- Check the postion(s) you are interested in -->
 - [ ] Curriculum Integrator
 - [ ] Data Analyst/Engineer
+- [ ] External students success
 - [ ] Intern Developer assistant
-- [ ] Operations
 - [ ] Senior Software Engineer
 
 ## My motivations
