@@ -2,8 +2,6 @@
 
 <h2 align="center">INTERN DEVELOPER ASSISTANT</h2>
 
-<hr />
-
 <h3>CONTACT INFORMATION</h3>
 
 <ul>
