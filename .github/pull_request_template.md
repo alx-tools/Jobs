@@ -9,7 +9,7 @@
 
 <!-- Check the postion(s) you are interested in -->
 - [ ] Curriculum Integrator
-- [ ] Data Analyst/Engineer
+- [ ] Software Engineer
 - [ ] External students success
 - [ ] Intern Developer assistant
 - [ ] Senior Software Engineer
