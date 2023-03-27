@@ -1,7 +1,7 @@
 # NATHAN NJENGA MUNGAI
-Kikuyu, Nairobi Kenya 
-frevnjengamungai@gmail.com 
-+254115237847 
+Kikuyu, Nairobi Kenya     
+frevnjengamungai@gmail.com    
++254115237847   
 
 ## Professional Summary
 
@@ -20,15 +20,15 @@ As a motivated and detail-oriented individual, I am excited to bring my passion 
 
 ## Experience
 
-*Stenocaptioner*				Jan 2020 ‐ May 2022 
-*Rev (worked remotely)*				Austin, Texas
+*Stenocaptioner* &emsp;Jan 2020 ‐ May 2022 
+*Rev (worked remotely)* &emsp;Austin, Texas
 
 - Followed established guidelines and procedures for maximum regulatory compliance. 
 - Completed assigned tasks with little or no supervision. 
 - Transcribed recorded videos in accordance with established formats. 
  
-*Assistant Manager*				Dec 2018 ‐ Sep 2019 
-*Lawny Springs*					Kikuyu, Nairobi 
+*Assistant Manager* &emsp;Dec 2018 ‐ Sep 2019 
+*Lawny Springs*	&emsp;Kikuyu, Nairobi 
 
 - Coordinated work handoffs and schedules with the manager. 
 - Monitored sales and purchases and kept detailed records of all transactions.
@@ -36,11 +36,11 @@ As a motivated and detail-oriented individual, I am excited to bring my passion 
 
 ## Education
 
-*Bachelor of Science: Applied Computing*	Ongoing
-*KCA University*				Nairobi, Kenya
+*Bachelor of Science: Applied Computing* &emsp;Ongoing
+*KCA University* &emsp;Nairobi, Kenya
 
-*Software Engineering*				Ongoing
-*African Leadership X (ALX)*			Westlands, Nairobi
+*Software Engineering* &emsp;Ongoing
+*African Leadership X (ALX)*&emsp;Westlands, Nairobi
 
 ## Hobbies
 - Experimenting with new technologies. 
