@@ -1,9 +1,9 @@
-**#NATHAN NJENGA MUNGAI**
+**# NATHAN NJENGA MUNGAI**
 Kikuyu, Nairobi Kenya 
 frevnjengamungai@gmail.com 
 +254115237847 
 
-**##Professional Summary**
+**## Professional Summary**
 
 As a motivated and detail-oriented individual, I am excited to bring my passion for technology and eagerness to learn to the role of Intern Developer Assistant. With a background in computer science and experience working on various coding projects, I possess a strong foundation in programming languages and tools, including Python, C, and Git. In addition, my excellent communication and teamwork skills allow me to collaborate effectively with colleagues and stakeholders at all levels. With a keen eye for detail and ability to manage my time efficiently, I am committed to delivering high-quality work and contributing to the success of the team.
 
