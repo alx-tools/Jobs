@@ -3,7 +3,6 @@
 Here the list of our open positions:
 
 - [Software Engineer](swe.md)
-- [External students success](external_students_success.md)
 - [Intern Developer assistant](intern_dev_assistant.md)
 - [Senior Software Engineer](senior_swe.md)
 

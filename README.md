@@ -13,7 +13,6 @@ For applying, nothing is easier than GitHub, right? Just follow our [HOWTO](HOWT
 Currently we have some open positions:
 
 - [Software Engineer](positions/swe.md)
-- [External students success](positions/external_students_success.md)
 - [Intern Developer assistant](positions/intern_dev_assistant.md)
 - [Senior Software Engineer](positions/senior_swe.md)
 
