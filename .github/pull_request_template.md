@@ -8,9 +8,7 @@
 ## I am interested about the position(s)
 
 <!-- Check the postion(s) you are interested in -->
-- [ ] Curriculum Integrator
 - [ ] Software Engineer
-- [ ] External students success
 - [ ] Intern Developer assistant
 - [ ] Senior Software Engineer
 
