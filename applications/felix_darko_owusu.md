@@ -56,8 +56,7 @@ Perseverance International School - Nsawam, Ghana, 06/2014
     - Elected School Prefect in 2013
 
 ## Languages
-- English (Fluent)
-- French (Basic)
+- English (Fluent and Professional)
 
 ## Additional Information
 - Humanity Centered: I believe in humanity’s ability to self-improve and am passionate about leveraging technology, streamlined systems, and data to solve human-centric problems.
