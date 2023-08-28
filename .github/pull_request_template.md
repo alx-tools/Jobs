@@ -8,9 +8,7 @@
 ## I am interested about the position(s)
 
 <!-- Check the postion(s) you are interested in -->
-- [ ] Software Engineer
-- [ ] Intern Developer assistant
-- [ ] Senior Software Engineer
+- [ ] Applied AI curriculum lead
 
 ## My motivations
 

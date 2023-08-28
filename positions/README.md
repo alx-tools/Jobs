@@ -2,9 +2,7 @@
 
 Here the list of our open positions:
 
-- [Software Engineer](swe.md)
-- [Intern Developer assistant](intern_dev_assistant.md)
-- [Senior Software Engineer](senior_swe.md)
+- [Applied AI curriculum lead](applied_ai_curriculum_lead.md)
 
 
 [How to apply](../HOWTO.md)
