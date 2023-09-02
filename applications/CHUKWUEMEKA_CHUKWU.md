@@ -1,4 +1,4 @@
-                                                                      Applied AI Curriculum Lead
+                                                      Applied AI Curriculum Lead
 
 CHUKWU JUDE CHUKWUEMEKA
 Address: No 47 Enu-Ovuve Layout Genesis Estate, Anambra State, Nigeria.
