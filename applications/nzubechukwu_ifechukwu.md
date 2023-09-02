@@ -22,12 +22,11 @@ player who can adapt easily to changing conditions.
 
 ### Skills
 
+- Intermediate proficiency in Python
 - Great writing and speaking proficiency in English
   (except for sounds like /r/ and /l/ that I can't correctly pronounce due to my cleft palate)
 - Ability to work independently and learn fast
 - Proficient in the use of Slack, Google Drive and GitHub
-- Intermediate proficiency in Python
-- Beginner proficiency in C
 - Keen observation and attention to details
 
 ### Hobbies
