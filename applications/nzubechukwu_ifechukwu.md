@@ -5,8 +5,8 @@
 
 ### Profile
 
-Nzubechukwu (Nzube for short) is an impact-driven individual with an avid passion for innovation,
-self-improvement, problem-solving and everything computer. He is a dependable team and independent
+Nzubechukwu (Nzube for short) is an impact-driven individual with an avid passion for education, innovation,
+self-improvement, problem-solving and everything AI and computer. He is a dependable team and independent
 player who can adapt easily to changing conditions.
 
 ### Education
@@ -26,14 +26,15 @@ player who can adapt easily to changing conditions.
   (except for sounds like /r/ and /l/ that I can't correctly pronounce due to my cleft palate)
 - Ability to work independently and learn fast
 - Proficient in the use of Slack, Google Drive and GitHub
-- Beginner-to-intermediate proficiency in Python
+- Intermediate proficiency in Python
 - Beginner proficiency in C
-- Keenly observant and attentive to details
+- Keen observation and attention to details
 
 ### Hobbies
 
 - Creative writing
-- Reading and learning
+- Reading, teaching and learning
+- Interacting with ChatGPT and Bard
 - Listening to music
 - Taking long walks
-- Being with friends and family
+- Spending time with friends and family
