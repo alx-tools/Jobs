@@ -8,11 +8,7 @@
 ## I am interested about the position(s)
 
 <!-- Check the postion(s) you are interested in -->
-- [ ] Curriculum Integrator
-- [ ] Data Analyst/Engineer
-- [ ] Intern Developer assistant
-- [ ] Operations
-- [ ] Senior Software Engineer
+- [ ] Applied AI curriculum lead
 
 ## My motivations
 

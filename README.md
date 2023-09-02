@@ -12,11 +12,8 @@ For applying, nothing is easier than GitHub, right? Just follow our [HOWTO](HOWT
 
 Currently we have some open positions:
 
-- [Curriculum Integrator](positions/curriculum_integrator.md)
-- [Data Analyst/Engineer](positions/data_ae.md)
-- [External students success](positions/external_students_success.md)
-- [Intern Developer assistant](positions/intern_dev_assistant.md)
-- [Senior Software Engineer](positions/senior_swe.md)
+- [Applied AI curriculum lead](positions/applied_ai_curriculum_lead.md)
+- [Technical Mentor](positions/technical_mentor.md)
 
 
 Thank you,
