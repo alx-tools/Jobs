@@ -1,6 +1,6 @@
 ## Nzubechukwu Ifechukwu
 
-[nzube.ifechukwu@gmail.com](mailto:nzube.ifechukwu@gmail.com)
+[nzube.ifechukwu@gmail.com](mailto:nzube.ifechukwu@gmail.com),
 [LinkedIn](https://www.linkedin.com/in/nzubeifechukwu/), [Twitter](https://twitter.com/NzubeIfechukwu)
 
 ### Profile
