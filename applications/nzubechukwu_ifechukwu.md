@@ -1,9 +1,10 @@
 ## Nzubechukwu Ifechukwu
-#### Onitsha, Nigeria
+**Onitsha, Nigeria**
 
 **Email:** [nzube.ifechukwu@gmail.com](mailto:nzube.ifechukwu@gmail.com)
 
 **Social media links:** [LinkedIn](https://www.linkedin.com/in/nzubeifechukwu/), [Twitter](https://twitter.com/NzubeIfechukwu)
+
 
 ### Profile
 
