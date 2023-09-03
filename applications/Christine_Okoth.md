@@ -79,7 +79,7 @@ My excellent interpersonal and communication skills make me an ideal candidate f
 *Instructional Design* | 04/2022
 
 - Completed professional development in Human-Centered Design, Instructional Design, and Inquiry-Based Learning.
-- Elected team lead of the Kenyan Team in charge of two projects that were delivered on time, including a [game to help teach first aid to primary school kids](insert-link-here).
+- Elected team lead of the Kenyan Team in charge of two projects that were delivered on time, including a [game to help teach first aid to primary school kids](https://www.figma.com/proto/pH91y198MjRZCMnZW690hq/First-Aid-Simulation?node-id=159-1657&scaling=contain&page-id=152%3A2&starting-point-node-id=159%3A1657).
 
 ## References
 
