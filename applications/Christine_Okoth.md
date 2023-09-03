@@ -47,7 +47,7 @@ My excellent interpersonal and communication skills make me an ideal candidate f
 ## Skills
 
 - UX Design, Figma, Sketch
-- Python, C programming, Javasccript
+- Python, C programming, Javascript
 - User Research, Wireframing, Prototyping, Usability Testing
 - Microsoft Office, SQL
 - Communication Skills
