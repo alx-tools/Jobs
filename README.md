@@ -12,7 +12,6 @@ For applying, nothing is easier than GitHub, right? Just follow our [HOWTO](HOWT
 
 Currently we have some open positions:
 
-- [Applied AI curriculum lead](positions/applied_ai_curriculum_lead.md)
 - [Technical Mentor](positions/technical_mentor.md)
 
 
